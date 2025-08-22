@@ -1,6 +1,6 @@
 {
 "title": "🔮 𝐑𝐢𝐧𝐫𝐢𝐧. Widgets Collection",
-"description": "八木凛Rin.自用Forward模块合集💫 Last updated 2025-08-22 14:40 (UTC+8)",
+"description": "八木凛Rin.自用Forward模块合集💫 Last updated 2025-08-22 15:50 (UTC+8)",
 "icon": "https://origin.picgo.net/2025/08/22/IMG_823891355fb53d675406.jpeg",
 "widgets": [
   {
@@ -148,9 +148,18 @@
     "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/main/Widgets/TvLive.js"
   },
   {
+    "id": "wuming.VOD,
+    "title": "KeywordVOD",
+    "description": "根据Keyword,用于VOD",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.0",
+    "author": "无名",
+    "url": "https://raw.githubusercontent.com/xbzl/Forward/refs/heads/main/Widgets/wuming.js"
+  },
+  {
     "id": "ti.bemarkt.vod.maccms",
     "title": "VOD",
-    "description": "获取 VOD 影视数据",
+    "description": "获取VOD影视数据",
     "requiredVersion": "0.0.1",
     "version": "1.1.0",
     "author": "Ti",
@@ -159,7 +168,7 @@
   {
     "id": "ti.bemarkt.podcast",
     "title": "Podcast",
-    "description": "获取 RSS 播客数据",
+    "description": "获取RSS播客数据",
     "requiredVersion": "0.0.1",
     "version": "2.1.0",
     "author": "Ti",
@@ -167,7 +176,7 @@
   },
   {
     "id": "yuanqi.wallpaper",
-    "title": "🖼️ ✨wallpaper",
+    "title": "🖼️✨ wallpaper",
     "description": "✨ Dynamic wallpaper For Topshelf",
     "requiredVersion": "0.0.1",
     "version": "2.3.0",
