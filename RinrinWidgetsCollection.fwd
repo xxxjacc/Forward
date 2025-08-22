@@ -15,7 +15,7 @@
   {
     "id": "drama.calendar",
     "title": "追剧日历",
-    “description": "解析追剧日历今/明日播出剧集/番剧/国漫/综艺、各项榜单、今日推荐等",
+    “description": "解析追剧日历今明日播出、各项榜单、今日推荐等",
     "requiredVersion": "0.0.1",
     "version": "1.0.4",
     "author": "huangxd",
@@ -176,7 +176,7 @@
   },
   {
     "id": "yuanqi.wallpaper",
-    "title": "🖼️✨ wallpaper",
+    "title": "🖼️ ✨ wallpaper",
     "description": "✨ Dynamic wallpaper For Topshelf",
     "requiredVersion": "0.0.1",
     "version": "2.3.0",
