@@ -6,7 +6,7 @@
   {
     "id": "media.rankings",
     "title": "影视榜单",
-    "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
+    "description": "聚合豆瓣、TMDB、IMDB、Bangumi的影视动画榜单",
     "requiredVersion": "0.0.1",
     "version": "1.3.1",
     "author": "阿米诺斯",
@@ -191,6 +191,6 @@
     "version": "2.1.2",
     "author": "VEUS",
     "url": "https://gist.githubusercontent.com/MrRegret/1b47fe77b505ef46893ca03cd1356b4f/raw"
-  },
+  }
 ]
 }
