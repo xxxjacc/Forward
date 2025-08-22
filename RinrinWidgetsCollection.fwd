@@ -148,7 +148,7 @@
     "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/main/Widgets/TvLive.js"
   },
   {
-    "id": "wuming.VOD,
+    "id": "wuming.VOD",
     "title": "KeywordVOD",
     "description": "根据Keyword,用于VOD",
     "requiredVersion": "0.0.1",
