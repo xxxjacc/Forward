@@ -22,6 +22,15 @@
     "url": "https://widgets-xd.vercel.app/Widgets/combined.js"
   },
   {
+    "id": "danmu-universe",
+    "title": "通用弹幕",
+    "description": "通用弹幕插件，支持腾讯、优酷、爱奇艺、哔哩哔哩等平台",
+    "requiredVersion": "0.0.2",
+    "version": "0.0.4",
+    "author": "Baran",
+    "url": "https://unpkg.com/@forward-widget/danmu-universe"
+  },
+  {
     "id": "drama.calendar",
     "title": "追剧日历",
     "description": "解析追剧日历今明日播出、各项榜单、今日推荐等",
