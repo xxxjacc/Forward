@@ -1,6 +1,6 @@
 {
 "title": "🔮 𝐑𝐢𝐧𝐫𝐢𝐧. Widgets Collection",
-"description": "🦄💖🫧 八木凛Rin. 自用Forward模块合集💫 Last updated 2025-09-03",
+"description": "🦄💖🫧 八木凛Rin. 自用Forward模块合集💫 Last updated 2025-09-04",
 "icon": "https://origin.picgo.net/2025/08/22/IMG_823891355fb53d675406.jpeg",
 "widgets": [
   {
@@ -25,7 +25,7 @@
     "id": "danmu-universe",
     "title": "通用弹幕",
     "description": "通用弹幕插件，支持腾讯、优酷、爱奇艺、哔哩哔哩等平台",
-    "requiredVersion": "0.0.2",
+    "requiredVersion": "0.0.12",
     "version": "0.0.5",
     "author": "Baran",
     "url": "https://unpkg.com/@forward-widget/danmu-universe"
