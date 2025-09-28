@@ -1,6 +1,6 @@
 {
 "title": "🔮 𝐑𝐢𝐧𝐫𝐢𝐧. Widgets Collection",
-"description": "🦄💖🫧 八木凛Rin. 自用Forward模块合集💫 Last updated 2025-09-19",
+"description": "🦄💖🫧 八木凛Rin. 自用Forward模块合集💫 Last updated 2025-09-28",
 "icon": "https://origin.picgo.net/2025/08/22/IMG_823891355fb53d675406.jpeg",
 "widgets": [
   {
@@ -17,7 +17,7 @@
     "title": "影视榜单",
     "description": "聚合豆瓣、TMDB、IMDB、Bangumi的影视动画榜单",
     "requiredVersion": "0.0.2",
-    "version": "1.3.8",
+    "version": "1.3.9",
     "author": "阿米诺斯 𝓑𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂",
     "url": "https://raw.githubusercontent.com/xxxjacc/Forward/refs/heads/main/combined.js"
   },
